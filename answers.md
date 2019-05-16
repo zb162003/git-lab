@@ -109,3 +109,61 @@ Changes to be committed:
 
 
 7.)
+On branch master
+nothing to commit, working tree clean
+
+
+8.)
+commit 96fb5492400e51b74a3215ca1ec518698facce70 (HEAD -> master)
+Author: Zach Bernens <zb162003@ohio.edu>
+Date:   Thu May 16 14:01:34 2019 -0400
+
+    Initial commit
+
+commit 4e099ed0a2eaa953509450fc52c6549cfca49c95
+Author: Zach Bernens <zb162003@ohio.edu>
+Date:   Thu May 16 14:00:54 2019 -0400
+
+    Initial commit
+
+9.)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+10.)
+No, the changes made online are not reflected in the local copy.
+
+full name: Zach Bernens
+GitHub user name: zb162003
+
+email: zb162003@ohio.edu
+I have recorded my answers in answer.md
+
+
+11.)
+To https://github.com/zb162003/git-lab.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/zb162003/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+12.)
+Yes, the changes made online are reflected in the local copy.
+
+full name: Zach Bernens
+GitHub user name: zb162003
+
+email: zb162003@ohio.edu
+I have recorded my answers in answer.md
+
+Class info.: CS5900 section 100
+
+13.)
+./  ../  .git/  .gitignore  README.md
+
+
